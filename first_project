@@ -1,0 +1,17 @@
+<!DOCTYPE.html>
+<html>
+    <head>
+        <title> Dog_store </title>
+    </head>
+    <body>
+       <h1>THIS IS MY BOOK , WELCOME <hr></h1> 
+       <img src="https://th.bing.com/th/id/OIP.TuoQ3-iTtiwcLAf-RihCEQHaJQ?w=157&h=196&c=7&r=0&o=5&pid=1.7">
+       <P> The dog is a domesticated  descendant of the <b>wolf</b> .</b><br><br> Also called <mark>the domestic dog</mark> ,<br><br> it is drived from the extinct pleistocene wolf.<br><br>Dogs were the first species to be domesticated by hunter _ gatherers over 15000 years ago .</br> </P>
+       <a href="https://www.wikipedia.org/" target="_blank">for more information "join to wikipedia" </a>
+       <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>        
+       </ul>
+    </body>
+</html>
